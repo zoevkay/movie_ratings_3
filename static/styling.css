@@ -1,0 +1,137 @@
+body {
+  
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+    color: #FF33CC;
+    font: Helvetica;
+
+}
+a:hover{
+    color: #FF7799;
+    text-decoration: none;
+}
+
+.minibody {
+    background: #F0F0F0;
+    border: 5px solid black;
+    border-radius: 25px;  
+    min-height: 100%;
+    text-align: center;
+}
+
+.header{
+    border: 3px solid #00CCFF;
+    text-align: center;
+    margin:10 auto 0 auto;
+    padding: 0;
+    max-width: 600px;
+    border-radius: 25px;
+    background-color: #00CCFF;
+
+
+}
+
+h1 {
+    font-family: 'Emblema One', cursive;
+    color: #000066;
+
+}
+
+h2 {
+    font-family: "Italiana", serif;
+    padding: 0px;
+    margin: 0px;
+}
+.miniheader {
+    border: 3px solid #00CcFF;
+    font-size: 12px;
+    color: #000068;
+    text-align: center;
+    margin: 10 auto 0 auto;
+    padding: 0px;
+    max-width: 400px;
+    border-radius: 25px;
+    background-color: #00CCFF;
+}
+.enjoy {
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 10px;
+    color: #181818;
+    max-width: 675px;
+    margin:50 auto 10 auto;
+}
+.container {
+    min-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    position: relative;
+}
+.details{
+    background-color: #FFCC99;
+    border-radius: 25px;
+    margin: 10 0;
+    font-size: 16px;
+    color:#686868;
+   
+
+}
+.movie_title{
+    width: 65%;
+    position: relative;
+    background-color: #FFCC99;
+    border-radius: 25px;
+    margin: 10 0;
+    font-size: 16px;
+    border: 2px solid gray;
+
+}
+.title {
+    width: 65%;
+    position: relative;
+    background-color: #FFCC99;
+    border-radius: 25px;
+    margin: 10 0;
+
+}
+.average_rating{
+    width: 30%;
+    position: absolute;
+    left: 70%;
+    top: 10px;
+    margin-top: -10px;
+    font-size: 16px;
+    border:2px solid gray;
+    background-color: #FFCC99;
+
+}
+.avg {
+
+    background-color: #FFCC99;
+    border-radius: 25px;
+    margin: 10 0;
+}
+.avgdiv {
+    width: 30%;
+    position: absolute;
+    left: 70%;
+    top: 0px;
+    margin-top: 19px;
+}
+.avgstars{
+     width: 30%;
+    position: absolute;
+    left: 70%;
+    top: -20px;
+   
+
+}
+div {
+    border-radius: 25px;
+
+    color: #000033;
+}
