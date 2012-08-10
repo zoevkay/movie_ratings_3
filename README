@@ -1,0 +1,5 @@
+This is an updated version of movie_raintgs_2. It uses Flask to put the movie ratings script into a web application.
+
+The first page shows 10 random movies, their details, and ratings. You can click on a movie or search for a certain movie by id number.
+
+This is not a finished project but contains all components.
